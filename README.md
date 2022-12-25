@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sagruvi
 - 👀 I’m interested in data structures, algorithms, blockchains and web 3.0.
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on Near blockchain with rust SDK, and Web frameworks rust.
+- 💞️ I’m looking to collaborate on Near blockchain with rust SDK, or work in Actix-web.
 - 📫 How to reach me nedelkoaroslav@gmail.com
 
 <!---
