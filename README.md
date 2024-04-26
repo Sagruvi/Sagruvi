@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sagruvi
-- 👀 I’m interested in data structures, algorithms
+- 👀 I’m interested in new technologies
 - 🌱 I’m currently learning golang
 - 📫 How to reach me nedelkoaroslav@gmail.com
 
